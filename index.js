@@ -18,10 +18,10 @@ var facts = [
   "He hated the sound of his own voice"];
   
 function johnLennonFacts(facts){
-  var array = [ ];
+  var arr = [ ];
   var i = 0;
   while (facts.length > i){
     array.push(facts + "!!!");
   }
-  return array;
+  return arr;
 }
