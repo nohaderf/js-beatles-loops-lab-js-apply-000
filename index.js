@@ -18,6 +18,6 @@ var facts = [
   "He hated the sound of his own voice"];
   
 function johnLennonFacts(facts){
-
-  while(facts)
+  var i = 0;
+  while (facts.length > i)
 }
