@@ -22,4 +22,5 @@ function johnLennonFacts(facts){
   while (facts.length > i){
     array.push(facts + "!!!");
   }
+  return johnLennonFacts
 }
